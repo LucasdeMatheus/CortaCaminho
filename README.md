@@ -14,7 +14,7 @@
 <br>Alem de encurtar urls, esse projeto possui funcionalidades atrativas, como pesquisar por palavras chaves e um sistema de status para fins de bloqueio.</p>
 
 # Status do Projeto
-<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=ANDAMENTO&labelColor=%2339362C&color=%2328a745&style=for-the-badge" />
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&labelColor=%2339362C&color=%2328a745&style=for-the-badge" />
 
 
 # Funcionalidades
@@ -74,7 +74,8 @@
 >>esta request retorna um Page, recebendo uma palvra chave e um filtro, com dados buscados por Login(que seria o @ unico), ou palavra-chave, ou titulo da url.
 >><br>
 >> Filtros disponivel:<br>
->>![image](https://github.com/user-attachments/assets/07b82392-df4c-4cb6-883b-05cd6a33f22c)
+>>![image](https://github.com/user-attachments/assets/9d98953b-03c2-4fff-9f59-77af21edec75)
+
 
 # Tecnologias utilizadas
 
